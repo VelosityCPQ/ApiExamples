@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "qG8X4b1kUGQ5+zPzX5DtuMY/1EBOotaW3WNiru0xoK+rrOnOXh8cZcQZwbUz3cd2UAVIu36PvwF0sWYSqLULVA==",
+  "success": true,
+  "projectFilePath": "c:\\dev\\Velosity API Demo\\Velosity API Demo\\Velosity API Demo.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\tedch_hbfpuhx\\.nuget\\packages\\restsharp\\110.2.0\\restsharp.110.2.0.nupkg.sha512",
+    "C:\\Users\\tedch_hbfpuhx\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512",
+    "C:\\Users\\tedch_hbfpuhx\\.nuget\\packages\\system.text.encodings.web\\7.0.0\\system.text.encodings.web.7.0.0.nupkg.sha512",
+    "C:\\Users\\tedch_hbfpuhx\\.nuget\\packages\\system.text.json\\7.0.2\\system.text.json.7.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}
